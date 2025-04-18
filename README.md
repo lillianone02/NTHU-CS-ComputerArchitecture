@@ -5,7 +5,8 @@
 * 3份程式作業+2次大考+一份期末專案
 ## Set up 
 * VS Code
-* C++ language
+* C/C++ Language
+* Assembly Language
 * Linux
 ## Homework
 ### HW1 Work Station
